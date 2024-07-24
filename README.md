@@ -42,7 +42,7 @@
 ---
 
 ## Author
-* ** JEAN REMY** (@REYZMERLY) - [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://reyzmerly.github.io/josephmahiuha/)
+* ** JEAN REMY** (@REYZMERLY) - [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://github.com/reyzmerly/REYZPORTOFOLIO)/)
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/reyzmerly)
   [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jean-remy-498a52162/)
   [<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white"/>](https://github.com/reyzmerly)
